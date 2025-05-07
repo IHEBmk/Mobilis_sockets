@@ -15,5 +15,5 @@ gunicorn
 psycopg2-binary
 networkx
 scikit-learn
-channels==4.0.0
-channels_redis==4.0.0
+channels
+channels_redis

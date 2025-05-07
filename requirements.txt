@@ -17,3 +17,4 @@ networkx
 scikit-learn
 channels
 channels_redis
+daphne

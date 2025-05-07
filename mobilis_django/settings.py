@@ -168,7 +168,9 @@ LOGGING = {
 }
 
 
-ASGI_APPLICATION = "server.asgi.application"
+# settings.py
+ASGI_APPLICATION = "mobilis_django.asgi.application"
+
 
 CHANNEL_LAYERS = {
     'default': {

@@ -171,12 +171,13 @@ LOGGING = {
 # settings.py
 ASGI_APPLICATION = "mobilis_django.asgi.application"
 
+REDIS_URL = "redis://red-d0dpkq2li9vc73a2haf0:6379"
 
 CHANNEL_LAYERS = {
     'default': {
         'BACKEND': 'channels_redis.core.RedisChannelLayer',
         'CONFIG': {
-            "hosts": [('redis://red-d0dpkq2li9vc73a2haf0', 6379)],  # Your Redis host and port
+            'hosts': REDIS_URL],
         },
     },
 }

@@ -1,0 +1,149 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Algiers,36.7539,3.0589,Algeria,DZ,Alger,primary,3415811,3415811
+Constantine,36.3500,6.6000,Algeria,DZ,Constantine,admin,465138,465138
+Batna,35.5500,6.1667,Algeria,DZ,Batna,admin,290645,290645
+Sétif,36.1900,5.4100,Algeria,DZ,Sétif,admin,288461,288461
+Djelfa,34.6667,3.2500,Algeria,DZ,Djelfa,admin,265833,265833
+Annaba,36.9000,7.7667,Algeria,DZ,Annaba,admin,257359,257359
+Sidi Aïssa,36.5000,4.2978,Algeria,DZ,M’sila,,215000,215000
+Sidi Bel Abbès,35.1939,-0.6414,Algeria,DZ,Sidi Bel Abbès,admin,212935,212935
+Biskra,34.8500,5.7333,Algeria,DZ,Biskra,admin,204661,204661
+Tébessa,35.4000,8.1167,Algeria,DZ,Tébessa,admin,194461,194461
+Ouargla,31.9500,5.3167,Algeria,DZ,Ouargla,admin,191136,133024
+El Khroub,36.2667,6.7000,Algeria,DZ,Constantine,,179033,179033
+Tiaret,35.3667,1.3167,Algeria,DZ,Tiaret,admin,178915,178915
+Bejaïa,36.7511,5.0642,Algeria,DZ,Bejaïa,admin,176139,176139
+Tlemcen,34.8828,-1.3167,Algeria,DZ,Tlemcen,admin,173531,173531
+Bir el Djir,35.7367,-0.5542,Algeria,DZ,Oran,,171883,171883
+Bordj Bou Arreridj,36.0667,4.7667,Algeria,DZ,Bordj Bou Arréridj,admin,168346,168346
+Béchar,31.6167,-2.2167,Algeria,DZ,Béchar,admin,165627,165627
+Blida,36.4686,2.8319,Algeria,DZ,Blida,admin,163586,163586
+Skikda,36.8667,6.9000,Algeria,DZ,Skikda,admin,163318,163318
+Souk Ahras,36.2864,7.9511,Algeria,DZ,Souk Ahras,admin,155259,155259
+Chlef,36.1647,1.3317,Algeria,DZ,Chlef,admin,155134,155134
+El Eulma,36.1500,5.6833,Algeria,DZ,Sétif,,155038,155038
+Bordj el Kiffan,36.7375,3.1931,Algeria,DZ,Alger,,151950,151950
+Mostaganem,35.9333,0.0833,Algeria,DZ,Mostaganem,admin,145696,145696
+Touggourt,33.1000,6.0667,Algeria,DZ,Touggourt,admin,143270,143270
+Médéa,36.2675,2.7500,Algeria,DZ,Médéa,admin,138355,138355
+Tizi Ouzou,36.7167,4.0500,Algeria,DZ,Tizi Ouzou,admin,135088,135088
+El Oued,33.3611,6.8606,Algeria,DZ,El Oued,admin,134699,134699
+Laghouat,33.8028,2.8750,Algeria,DZ,Laghouat,admin,134372,134372
+M’Sila,35.7019,4.5472,Algeria,DZ,M’sila,admin,132975,132975
+Jijel,36.8167,5.7500,Algeria,DZ,Jijel,admin,131513,131513
+Relizane,35.7333,0.5500,Algeria,DZ,Relizane,admin,130094,130094
+Saïda,34.8333,0.1500,Algeria,DZ,Saïda,admin,128413,128413
+Baraki,36.6667,3.1000,Algeria,DZ,Tipaza,,123101,123101
+Guelma,36.4500,7.4333,Algeria,DZ,Guelma,admin,120004,120004
+Ghardaïa,32.4833,3.6667,Algeria,DZ,Ghardaïa,admin,120000,120000
+Aïn Beïda,35.7833,7.3833,Algeria,DZ,Oum el Bouaghi,,116064,116064
+Maghnia,34.8617,-1.7306,Algeria,DZ,Tlemcen,,114634,114634
+Bou Saâda,35.2083,4.1739,Algeria,DZ,M’sila,,111787,111787
+Bou Saada,36.7667,4.5833,Algeria,DZ,Tizi Ouzou,,111787,111787
+Mascara,35.4000,0.1333,Algeria,DZ,Mascara,admin,108587,108587
+Khenchela,35.4167,7.1333,Algeria,DZ,Khenchela,admin,108580,108580
+Barika,35.3972,5.3658,Algeria,DZ,Batna,,104388,104388
+Messaad,34.1667,3.5000,Algeria,DZ,Djelfa,,102453,102453
+Aflou,34.1089,2.1019,Algeria,DZ,Laghouat,,102025,102025
+Aïn Oussera,35.4489,2.9044,Algeria,DZ,Djelfa,,101239,101239
+Oran,35.6969,-0.6331,Algeria,DZ,Oran,admin,101009,101009
+Es Senia,35.6500,-0.6333,Algeria,DZ,Oran,,96928,96928
+Bab Ezzouar,36.7217,3.1853,Algeria,DZ,Alger,,96597,96597
+Tamanrasset,22.7889,5.5256,Algeria,DZ,Tamanrasset,admin,92635,92635
+Arzew,35.8500,-0.3167,Algeria,DZ,Oran,,91400,91400
+Aïn M’Lila,36.0361,6.5708,Algeria,DZ,Oum el Bouaghi,,88441,88441
+El Bayadh,33.6803,1.0203,Algeria,DZ,El Bayadh,admin,85577,85577
+Mohammadia,35.5833,0.0667,Algeria,DZ,Mascara,,84700,84700
+Khemis Miliana,36.2667,2.2167,Algeria,DZ,Aïn Defla,,84574,84574
+Hamma Bouziane,36.5333,6.7167,Algeria,DZ,Constantine,,83603,83603
+Dar el Beïda,36.7142,3.2125,Algeria,DZ,Alger,,81509,81509
+Oum el Bouaghi,35.8775,7.1136,Algeria,DZ,Oum el Bouaghi,admin,80359,80359
+Taher,36.7719,5.8983,Algeria,DZ,Jijel,,78500,78500
+Birkhadem,36.7167,3.0500,Algeria,DZ,Alger,,77749,77749
+Khemis el Khechna,36.6500,3.3306,Algeria,DZ,Boumerdes,,76474,76474
+Aïn Temouchent,35.3000,-1.1333,Algeria,DZ,Aïn Temouchent,admin,75558,75558
+Tissemsilt,35.6078,1.8111,Algeria,DZ,Tissemsilt,admin,75197,75197
+Sig,35.5278,-0.1861,Algeria,DZ,Mascara,,70499,70499
+Mila,36.4503,6.2644,Algeria,DZ,Mila,admin,69052,69052
+Bouira,36.3800,3.9014,Algeria,DZ,Bouira,admin,68545,68545
+Adrar,27.8667,-0.2833,Algeria,DZ,Adrar,admin,68276,68276
+Ksar el Boukhari,35.8856,2.7508,Algeria,DZ,Médéa,,67813,67813
+Reghaïa,36.7631,3.3426,Algeria,DZ,Boumerdes,,66215,66215
+Aïn Defla,36.2652,1.9703,Algeria,DZ,Aïn Defla,admin,65453,65453
+Bordj Menaïel,36.7417,3.7231,Algeria,DZ,Boumerdes,,64820,64820
+Oued Rhiou,35.9667,0.9167,Algeria,DZ,Relizane,,64685,64685
+Assi Bou Nif,35.7000,-0.5000,Algeria,DZ,Oran,,63581,63581
+Ouled Djellal,34.4167,5.0667,Algeria,DZ,Ouled Djellal,admin,63237,63237
+Tighenif,35.4167,0.3333,Algeria,DZ,Mascara,,62210,62210
+Rouiba,36.7333,3.2833,Algeria,DZ,Alger,,61984,61984
+Kolea,36.6406,2.7650,Algeria,DZ,Tipaza,,61643,61643
+Baba Hassen,36.7000,2.9667,Algeria,DZ,Tipaza,,60000,60000
+Lakhdaria,36.5622,3.5944,Algeria,DZ,Bouira,,59746,59746
+Sidi ech Chahmi,35.6667,-0.5167,Algeria,DZ,Oran,,58857,58857
+El Attaf,36.2167,1.6667,Algeria,DZ,Aïn Defla,,57737,57737
+Boufarik,36.5706,2.9108,Algeria,DZ,Blida,,57162,57162
+Boudouaou,36.7300,3.4100,Algeria,DZ,Boumerdes,,56398,56398
+Oulad Yaïch,36.5039,2.8619,Algeria,DZ,Blida,,55719,55719
+Ksar Chellala,35.2167,2.3167,Algeria,DZ,Tiaret,,52753,52753
+Akbou,36.4667,4.5333,Algeria,DZ,Bejaïa,,52282,52282
+Zeralda,36.7167,2.8500,Algeria,DZ,Tipaza,,51552,51552
+’Aïn Merane,36.1628,0.9706,Algeria,DZ,Relizane,,51326,51326
+’Aïn el Turk,35.7408,-0.7492,Algeria,DZ,Oran,,50000,50000
+Saoula,36.7000,3.0167,Algeria,DZ,Tipaza,,50000,50000
+El Meghaïer,33.9506,5.9242,Algeria,DZ,El Meghaier,admin,49793,49793
+Oued Sly,36.1000,1.2000,Algeria,DZ,Chlef,,47248,47248
+Douera,36.6667,2.9500,Algeria,DZ,Tipaza,,46266,46266
+Ouled Moussa,36.6831,3.3681,Algeria,DZ,Boumerdes,,45770,45770
+Tindouf,27.6753,-8.1286,Algeria,DZ,Tindouf,admin,45610,45610
+Miliana,36.3000,2.2333,Algeria,DZ,Aïn Defla,,44201,44201
+Beni Saf,35.3000,-1.3833,Algeria,DZ,Aïn Temouchent,,43802,43802
+El Affroun,36.4667,2.6333,Algeria,DZ,Tipaza,,42627,42627
+Oued Fodda,36.1833,1.5333,Algeria,DZ,Chlef,,41710,41710
+Boumerdes,36.7603,3.4724,Algeria,DZ,Boumerdes,admin,41685,41685
+Meftah,36.6167,3.2333,Algeria,DZ,Blida,,40878,40878
+Sidi Moussa,36.6056,3.0886,Algeria,DZ,Blida,,40750,40750
+El Golea,30.5833,2.8833,Algeria,DZ,El Meniaa,admin,40195,40195
+Magra,35.6000,5.0667,Algeria,DZ,M’sila,,39250,39250
+Staoueli,36.7500,2.8833,Algeria,DZ,Tipaza,,38915,38915
+Draa el Mizan,36.5333,3.8333,Algeria,DZ,Bouira,,38886,38886
+Emîr Abdelkader,36.7500,5.8333,Algeria,DZ,Jijel,,38468,38468
+Bougara,36.5333,3.0833,Algeria,DZ,Blida,,38352,38352
+Souma,36.5183,2.9053,Algeria,DZ,Blida,,37461,37461
+Ouled Beni Messous,36.7833,2.9833,Algeria,DZ,Tipaza,,36191,36191
+Collo,37.0056,6.5603,Algeria,DZ,Skikda,,35682,35682
+Tebesbest,33.1167,6.0833,Algeria,DZ,Ouargla,,35032,35032
+Aïn Taya,36.7917,3.2889,Algeria,DZ,Alger,,34501,34501
+Beni Tamou,36.5333,2.8167,Algeria,DZ,Blida,,33846,33846
+Ghazaouet,35.1000,-1.8500,Algeria,DZ,Tlemcen,,33774,33774
+Didouche Mourad,36.4500,6.6333,Algeria,DZ,Constantine,,33266,33266
+El Arrouch,36.6531,6.8364,Algeria,DZ,Skikda,,33085,33085
+Timimoun,29.2628,-0.2389,Algeria,DZ,Timimoun,admin,33060,33060
+Aïn el Bya,35.8167,-0.2833,Algeria,DZ,Oran,,32611,32611
+I-n-Salah,27.1950,2.4833,Algeria,DZ,In Salah,admin,32518,32518
+Bougaa,36.3333,5.0833,Algeria,DZ,Sétif,,31922,31922
+Draa Ben Khedda,36.7333,3.9667,Algeria,DZ,Boumerdes,,31382,31382
+Boghni,36.5500,3.9500,Algeria,DZ,Tizi Ouzou,,31263,31263
+Birtouta,36.6500,3.0000,Algeria,DZ,Tipaza,,30575,30575
+Chabet el Ameur,36.6333,3.7000,Algeria,DZ,Boumerdes,,30223,30223
+Tizi Gheniff,36.5833,3.7667,Algeria,DZ,Boumerdes,,29409,29409
+L’Arbaa Naït Irathen,36.6367,4.2067,Algeria,DZ,Tizi Ouzou,,29376,29376
+Ouled Haddaj,36.7200,3.3500,Algeria,DZ,Boumerdes,,29012,29012
+Tazmalt,36.3844,4.3992,Algeria,DZ,Bouira,,28891,28891
+Mouzaïa,36.4667,2.6833,Algeria,DZ,Tipaza,,28552,28552
+Sidi Lakhdar,36.2653,2.1617,Algeria,DZ,Aïn Defla,,28361,28361
+Isser,36.7160,3.6660,Algeria,DZ,Boumerdes,,27990,27990
+Bordj el Bahri,36.8167,3.2333,Algeria,DZ,Alger,,27900,27900
+Ouled Fayet,36.7333,2.9500,Algeria,DZ,Tipaza,,27593,27593
+Ouled Slama Tahta,36.5483,3.1100,Algeria,DZ,Blida,,27573,27573
+El Abadia,36.2667,1.6833,Algeria,DZ,Aïn Defla,,27185,27185
+Zemmouri,36.7833,3.6000,Algeria,DZ,Boumerdes,,26408,26408
+Kaous,36.7702,5.8136,Algeria,DZ,Jijel,,26137,26137
+El Tarf,36.7670,8.3170,Algeria,DZ,El Tarf,admin,25594,25594
+Tipasa,36.5919,2.4494,Algeria,DZ,Tipaza,admin,25225,25225
+Beni Amrane,36.6667,3.5833,Algeria,DZ,Boumerdes,,23621,23621
+Illizi,26.5050,8.4822,Algeria,DZ,Illizi,admin,17252,17252
+Bordj Mokhtar,21.3289,0.9542,Algeria,DZ,Bordj Badji Mokhtar,admin,16437,16437
+Naama,33.2622,-0.3144,Algeria,DZ,Naama,admin,16251,16251
+Djanet,24.5550,9.4853,Algeria,DZ,Djanet,admin,14655,14655
+Beni Abbès,30.0800,-2.1000,Algeria,DZ,Béni Abbès,admin,10885,10885
+In Guezzam,19.5686,5.7722,Algeria,DZ,In Guezzam,admin,7045,7045
